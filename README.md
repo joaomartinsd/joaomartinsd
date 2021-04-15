@@ -1,0 +1,1 @@
+- 👋 Olá, me chamo João Paulo e estou iniciando na área de desenvolvimento front-end
